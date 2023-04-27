@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.fasterxml.jackson.core">
+    <CLASSES>
+      <root url="jar://D:/Java JAR/jackson/com.fasterxml.jackson.core.jar!/" />
+      <root url="jar://D:/Java JAR/jackson/com.fasterxml.jackson.databind.jar!/" />
+      <root url="jar://D:/Java JAR/jackson/jackson-all-1.9.0.jar!/" />
+      <root url="jar://D:/Java JAR/jackson/jackson-annotations-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
